@@ -1,0 +1,4 @@
+websockets~=9.1
+asyncio==3.4.3
+python-dotenv~=0.21.0
+requests==2.31.0
